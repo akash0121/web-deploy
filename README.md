@@ -1,2 +1,0 @@
-# node-deploy
-# app-deploy
