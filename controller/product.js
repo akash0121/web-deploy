@@ -1,5 +1,5 @@
 const fs = require("fs");
-const model = require("../model/product");
+const model = require("./Model/product");
 const Product = model.Product;
 const mongoose = require('mongoose')
 
